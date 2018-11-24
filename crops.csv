@@ -1,0 +1,6 @@
+Crop_id,Crop_Name,Profit,Min_water,Min_past_rainfall,Crop_duration
+1,Sugarcane,10000,10,700,12
+2,Jowar,1000,0,500,4
+3,Ragi,2000,3,500,4
+4,Paddy,5000,10,800,4
+5,Groundnut,1500,6,600,4
